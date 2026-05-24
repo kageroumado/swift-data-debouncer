@@ -23,7 +23,7 @@ Requires macOS 14 / iOS 17 / tvOS 17 / watchOS 10 / visionOS 1.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/kageroumado/SwiftDataDebouncer", from: "1.0.0"),
+    .package(url: "https://github.com/kageroumado/swift-data-debouncer", from: "1.0.0"),
 ],
 targets: [
     .target(name: "App", dependencies: ["SwiftDataDebouncer"]),

@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftDataDebouncer",
+    name: "swift-data-debouncer",
     platforms: [.macOS(.v14), .iOS(.v17), .macCatalyst(.v17), .tvOS(.v17), .watchOS(.v10), .visionOS(.v1)],
     products: [
         .library(name: "SwiftDataDebouncer", targets: ["SwiftDataDebouncer"]),
