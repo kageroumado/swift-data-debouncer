@@ -1,4 +1,4 @@
-# SwiftDataDebouncer
+# swift-data-debouncer
 
 Coalesce rapid SwiftData saves into a single debounced write.
 
